@@ -2,6 +2,9 @@
 
 This project focuses on modeling and simulating the behavior of a piezoelectric rate gyroscope using COMSOL Multiphysics software. A piezoelectric rate gyroscope is an inertial sensor designed to measure the angular velocity or rate of rotation within a system. It typically consists of a thin piezoelectric material positioned between two electrodes, along with specific mechanical structures that provide sensitivity and stability. The piezoelectric material generates an electric charge in proportion to the angular velocity applied to it, which can then be measured to determine the rate of rotation.
 
+## please refer to the:
+[project documentation](https://github.com/CVBhanuPrakash/Piezoelectric_Rate_Gyroscope_Using_COMSOL/blob/main/MSA/GROUP-12.pdf)
+
 ## Project Objectives:
 
 - **Design of Piezoelectric Gyroscope Structure:** The project involves designing the structural components of a piezoelectric gyroscope.
